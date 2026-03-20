@@ -39,9 +39,9 @@
 - Рассчитала окупаемость привлечения  
 
 ---
-## 📫 Контакты
-- Telegram: https://t.me/ofelia_so  
-- Email: ofelia-ozersk@mail.ru  
+## 📫 
+- Telegram: https://t.me/ofelia_so
+- Email: ofelia-ozersk@mail.ru
 
 ---
 
