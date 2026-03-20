@@ -1,16 +1,47 @@
-## Hi there 👋
+# Привет!👋 Меня зовут Офелия
+Я аналитик данных с опытом более 5 лет работы с операционными и логистическими данными.
 
-<!--
-**oofelia1802-art/oofelia1802-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍Калининград | Готова к переезду и удалённой работе
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 О себе
+- Анализирую данные и нахожу бизнес-кейсы
+- Автоматизирую отчётность и процессы
+- Работаю с метривами и помогаю принимать решения на основе даннх
+
+---
+
+## 🛠️ Стек
+
+**SQL:** PostgreSQL (JOIN, CTE, оконные функции)  
+**Python:** pandas, numpy, matplotlib, seaborn  
+**BI:** Metabase  
+**Excel:** Power Query, Power Pivot, сводные таблицы  
+**Дополнительно:** Google Sheets, A/B тесты, когортный анализ  
+
+---
+
+## 📊 Проекты
+
+### 📌 Анализ данных ритейлера
+- Анализ транзакций и маркетинговых акций  
+- Выявила влияние акции на средний чек  
+- Построила дашборды  
+
+### 📌 Игровая аналитика
+- Рассчитала DAU, WAU, MAU, ARPU, LTV  
+- Анализ рекламных кампаний  
+- SQL-анализ поведения пользователей  
+
+### 📌 Юнит-экономика онлайн-школы
+- Построила финансовую модель  
+- Рассчитала окупаемость привлечения  
+
+---
+## 📫 Контакты
+- Telegram: https://t.me/ofelia_so  
+- Email: ofelia-ozersk@mail.ru  
+
+---
+
